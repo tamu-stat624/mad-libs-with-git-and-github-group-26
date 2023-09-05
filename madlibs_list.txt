@@ -3,11 +3,11 @@
 3. happy
 4. red
 5. August
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
+6. 9
+7. Apples
+8. Bananas
+9. Pie
+10. Kitchen
 11. Liquid
 12. Adjective
 13. Material
