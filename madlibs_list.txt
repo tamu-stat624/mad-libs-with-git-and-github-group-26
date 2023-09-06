@@ -1,6 +1,6 @@
 1. Harshit
-2. elegant
-3. happy
+2. disabled
+3. strange
 4. red
 5. August
 6. 9
